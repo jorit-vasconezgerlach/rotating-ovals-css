@@ -1,6 +1,6 @@
 # Rotating Ovals CSS
 ## General Information
-**Preview** [open](https://jorit.vasconezgerlach.de/host/rotating-ovals-css/)\
+**Preview** [open](https://jorit.vasconezgerlach.de/host/rotating-ovals-css-git/)\
 **Licence** Free to copy, edit and share\
 **Languages** CSS, HTML
 
